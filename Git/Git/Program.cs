@@ -18,5 +18,12 @@ namespace Git
 
             return resultat;
         }
+
+        static double Divider(int a, int b)
+        {
+            double resultat = a / b;
+
+            return resultat;
+        }
     }
 }
