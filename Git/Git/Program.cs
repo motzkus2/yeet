@@ -24,6 +24,7 @@ namespace Git
             Console.WriteLine("Skipper åbner døren");
             Console.ReadKey();
             Console.WriteLine("uhhh");
+            Console.WriteLine("sdsds");
         }
 
         static int Sum(int a, int b)
