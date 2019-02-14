@@ -23,7 +23,7 @@ namespace Git
             Thread.Sleep(1000);
             Console.WriteLine("Skipper åbner døren");
             Console.ReadKey();
-            
+            Console.WriteLine("uhhh");
         }
 
         static int Sum(int a, int b)
