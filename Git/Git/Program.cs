@@ -48,5 +48,12 @@ namespace Git
 
             return alle;
         }
+
+        static double Gennemsnit(int a, int b, int c, int d)
+        {
+            double[] tal = { a, b, c, d };
+
+            return tal.Average();
+        }
     }
 }
