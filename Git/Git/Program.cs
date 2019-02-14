@@ -11,5 +11,12 @@ namespace Git
         static void Main(string[] args)
         {
         }
+
+        static int Sum(int a, int b)
+        {
+            int resultat = a + b;
+
+            return resultat;
+        }
     }
 }
