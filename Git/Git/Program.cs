@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Git
@@ -17,7 +18,11 @@ namespace Git
             {
                 Console.WriteLine(tal);
             }
-
+            Console.WriteLine("YEET");
+            Console.WriteLine("Forstill dig vis skipper kom gående ind af døren");
+            Thread.Sleep(1000);
+            Console.WriteLine("Skipper åbner døren");
+            Console.ReadKey();
             
         }
 
