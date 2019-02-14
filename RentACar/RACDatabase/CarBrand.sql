@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[CarBrand]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Brand] NVARCHAR(50) NULL
+)

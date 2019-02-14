@@ -1,0 +1,7 @@
+c:\users\thom8865\source\repos\Regnvejr\Regnvejr\obj\Debug\Regnvejr.csprojAssemblyReference.cache
+c:\users\thom8865\source\repos\Regnvejr\Regnvejr\obj\Debug\Regnvejr.csproj.CoreCompileInputs.cache
+c:\users\thom8865\source\repos\Regnvejr\Regnvejr\bin\Debug\Regnvejr.exe.config
+c:\users\thom8865\source\repos\Regnvejr\Regnvejr\bin\Debug\Regnvejr.exe
+c:\users\thom8865\source\repos\Regnvejr\Regnvejr\bin\Debug\Regnvejr.pdb
+c:\users\thom8865\source\repos\Regnvejr\Regnvejr\obj\Debug\Regnvejr.exe
+c:\users\thom8865\source\repos\Regnvejr\Regnvejr\obj\Debug\Regnvejr.pdb

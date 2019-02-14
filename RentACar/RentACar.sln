@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar", "RentACar\RentACar.csproj", "{0E97E7EF-620C-4417-896C-904B3674F7F7}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RACDatabase", "RACDatabase\RACDatabase.sqlproj", "{53F0194A-BF86-466E-BCC7-C7CC037CB881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E97E7EF-620C-4417-896C-904B3674F7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E97E7EF-620C-4417-896C-904B3674F7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E97E7EF-620C-4417-896C-904B3674F7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E97E7EF-620C-4417-896C-904B3674F7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F0194A-BF86-466E-BCC7-C7CC037CB881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F0194A-BF86-466E-BCC7-C7CC037CB881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F0194A-BF86-466E-BCC7-C7CC037CB881}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{53F0194A-BF86-466E-BCC7-C7CC037CB881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F0194A-BF86-466E-BCC7-C7CC037CB881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F0194A-BF86-466E-BCC7-C7CC037CB881}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {233A397C-BB8C-4E09-B7FF-5AE7EA36B62F}
+	EndGlobalSection
+EndGlobal
